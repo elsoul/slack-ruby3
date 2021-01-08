@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "slack/ruby3"
+
+puts Slack::Ruby3.push webhook_url: ARGV[0], message: ARGV[1]
