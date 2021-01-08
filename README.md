@@ -14,6 +14,7 @@
     <img alt="" src="https://badgen.net/badge/license/Apache/blue">
   </a>
 </p>
+
 ## What's Slack::Ruby3 ?
 
 Slack Notification Compatible with Ruby version 3.0.0 ~
