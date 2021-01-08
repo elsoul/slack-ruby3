@@ -22,7 +22,19 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    Console
+
+    $ slack-ruby3 $WEBHOOK_URL, $MESSAGE
+    
+    
+    Ruby
+    
+    ```ruby
+        require "slack/ruby3"
+        
+        Slack::Ruby3.push webhook_url: "https:/xxxxx.xxxx.xxxx.xxxx", messages: "hoi!"
+
+    ```
 
 ## Development
 
