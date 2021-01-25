@@ -47,7 +47,7 @@ Console
 ```ruby
     require "slack/ruby3"
     
-    Slack::Ruby3.push webhook_url: "https:/xxxxx.xxxx.xxxx.xxxx", messages: "hoi!"
+    Slack::Ruby3.push webhook_url: "https:/xxxxx.xxxx.xxxx.xxxx", message: "hoi!"
 ```
 ## Development
 
